@@ -18,9 +18,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" **alt="Vagrant" width="40" height="40"/>
   </div>
+___
   
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Real-Sello&theme=gotham-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Real-Sello&theme=modern-lilac)](https://git.io/streak-stats)
   
   
 <!--
