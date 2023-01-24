@@ -21,7 +21,7 @@
 
 
 ### :fire: My Stats :
-<align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=Real-Sello&theme=gotham)](https://git.io/streak-stats)
+<align="center"> [![GitHub Streak](https://streak-stats.demolab.com/?user=Real-Sello&theme=gotham)](https://git.io/streak-stats)
   
   
 <!--
