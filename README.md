@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning Python
   
-<h3 align="center">:hammer_and_wrench: Languages and Tools :</h3>
+### :hammer_and_wrench: Languages and Tools :
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
@@ -23,7 +23,8 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Real-Sello&theme=cobalt)](https://git.io/streak-stats)
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Real-Sello)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Real-Sello&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 <!--
 **Real-Sello/Real-Sello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
