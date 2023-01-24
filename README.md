@@ -1,4 +1,4 @@
-###<align="center">Hi there 👋, I'm Sello
+<###align="center">Hi there 👋, I'm Sello
 
 
 ### :hammer_and_wrench: Languages and Tools :
