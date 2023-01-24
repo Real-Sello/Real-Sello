@@ -17,9 +17,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" **alt="Vagrant" width="40" height="40"/>
+  </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Real-Sello)](https://git.io/streak-stats)
-  </div>
+  
   
 <!--
 **Real-Sello/Real-Sello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
