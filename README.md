@@ -1,7 +1,7 @@
-<### align="center">Hi there 👋, I'm Sello
+<h3 align="center">Hi there 👋, I'm Sello
 
 
-### :hammer_and_wrench: Languages and Tools :
+<h3 align="center">:hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
