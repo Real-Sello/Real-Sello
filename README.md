@@ -1,4 +1,6 @@
-<h3 align="center">Hi there 👋, I'm Sello
+<h1 align="center">Hi there 👋, I'm Sello
+  
+<h3 align="center">A passionate fullstack software engineering student from South Africa</h3>
 
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools :
