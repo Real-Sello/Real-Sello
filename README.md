@@ -2,7 +2,9 @@
   
 <h3 align="center">A passionate fullstack software engineering student from South Africa</h3>
 - 🔭 I’m currently a fullstack software engineering student at ALX
+  
 - 🌱 I’m currently learning Python
+  
 <h3 align="center">:hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
