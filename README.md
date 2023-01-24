@@ -22,7 +22,7 @@
 
 
 <h3 align="center">:fire: My Stats :
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Real-Sello&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Real-Sello&theme=gotham)](https://git.io/streak-stats)
   
   
 <!--
