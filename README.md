@@ -22,7 +22,8 @@
 
 <h3 align="center">:fire: My Stats :</h3>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Real-Sello&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Real-Sello&theme=gotham](https://git.io/streak-stats)
+  https://github-readme-streak-stats.herokuapp.com/?user=Real-Sello
 <!--
 **Real-Sello/Real-Sello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
