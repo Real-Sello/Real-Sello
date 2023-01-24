@@ -20,9 +20,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" **alt="Vagrant" width="40" height="40"/>
   </div>
 
-<h3 align="center">:fire: My Stats :</h3>
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Real-Sello&theme=gotham](https://git.io/streak-stats)
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=Real-Sello
 <!--
 **Real-Sello/Real-Sello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
