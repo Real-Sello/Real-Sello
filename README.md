@@ -21,9 +21,9 @@
   </div>
 
 
-<h3 align="center">:fire: My Stats :
+:fire: My Stats :
   
-<div>  
+<align="center"><div>  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Real-Sello&theme=gotham)](https://git.io/streak-stats)
   </div>
   
