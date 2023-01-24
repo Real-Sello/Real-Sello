@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Sello
   
 <h3 align="center">A passionate fullstack software engineering student from South Africa</h3>
-- 🔭 I’m currently a fullstack software engineering student at ALX
+  
+- 🔭 I’m currently a fullstack software engineering student at *ALX*
   
 - 🌱 I’m currently learning Python
   
