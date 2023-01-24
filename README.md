@@ -22,8 +22,9 @@
 
 
 <h3 align="center">:fire: My Stats :
+<div>  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Real-Sello&theme=gotham)](https://git.io/streak-stats)
-  
+  </div>
   
 <!--
 **Real-Sello/Real-Sello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
