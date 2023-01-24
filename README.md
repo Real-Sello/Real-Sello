@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning Python
   
 <h3 align="center">:hammer_and_wrench: Languages and Tools :
+  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -20,7 +21,7 @@
   </div>
 
 
-### :fire: My Stats :
+<h3 align="center">:fire: My Stats :
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Real-Sello&theme=gotham)](https://git.io/streak-stats)
   
   
