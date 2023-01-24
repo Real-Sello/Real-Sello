@@ -1,4 +1,4 @@
-### Hi there 👋
+###<align="center">Hi there 👋, I'm Sello
 
 
 ### :hammer_and_wrench: Languages and Tools :
