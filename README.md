@@ -2,7 +2,7 @@
   
 <h3 align="center">A passionate fullstack software engineering student from South Africa</h3>
   
-- 🔭 I’m currently a fullstack software engineering student at *ALX*
+- 🔭 I’m currently a fullstack software engineering student at **ALX Africa**
   
 - 🌱 I’m currently learning Python
   
