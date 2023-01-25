@@ -40,7 +40,7 @@
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="40w" width="40" />
   </a>
 </div>
-
+<br />
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Real-Sello&theme=cobalt)](https://git.io/streak-stats)
   
