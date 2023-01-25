@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning **C**,**Python** & **JavaScript**
   
-<div align="center" id="badges">
+## Happy to have you here ! <div align="right" id="badges">
 <img src="https://komarev.com/ghpvc/?username=Real-Sello&style=flat-square&color=blue" alt="Views"/>
 </div>
   
