@@ -5,8 +5,9 @@
 - 🔭 I’m currently a fullstack software engineering student at **ALX** with Back-End Specialization
   
 - 🌱 I’m currently learning **C**,**Python** & **JavaScript**
+ ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=Real-Sello.Real-Sello)
   
-Happy to have you here; <div align="right" id="badges">
+<div align="right" id="badges">
 <img src="https://komarev.com/ghpvc/?username=Real-Sello&style=flat-square&color=blue" alt="Views"/>
 </div>
   
