@@ -29,19 +29,19 @@
 <h3 align="center">📫 Connect with me:</h3>
 <div align="center">
   <a href="https://twitter.com/__Sello" target="blank">
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="__Sello" height="30" width="40"/>
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="__Sello" height="30" width="30"/>
   </a>
   <a href="https://www.linkedin.com/in/sello-moneatse-2bb4aa130" target="blank">
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="sello-moneatse" height="30" width="40"/>
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="sello-moneatse" height="30" width="30"/>
   </a>
   <a href="https://stackoverflow.com/users/20726911" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="20726911" height="30" width="40" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="20726911" height="30" width="30" />
   </a>
   <a href="mailto:spmoneatse@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="30" />
   </a>
   <a href="https://github.com/Real-Sello" target="blank">
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="40w" width="40" />
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="40w" width="30" />
   </a>
 </div>
 
