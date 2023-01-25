@@ -8,7 +8,7 @@
   
 ### :hammer_and_wrench: Languages and Tools :
   
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
@@ -22,7 +22,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" height="40" width="40" />
   </a>
   
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">📫 Connect with me:</h3>
 <div align="center">
   <a href="https://twitter.com/__Sello" target="blank">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="__Sello" height="30" width="40"/>
