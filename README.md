@@ -33,14 +33,14 @@
   <a href="https://stackoverflow.com/users/20726911" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="20726911" height="30" width="40" />
   </a>
-  <a href="mailto:minipachru@gmail.com" target="blank">
-    <img align="center" src="assets/contact/gmail.svg" alt="gmail" height="30" width="40" />
+  <a href="mailto:spmoneatse@gmail.com" target="blank">
+    <img align="center" src="Gmail.svg" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://github.com/Real-Sello" target="blank">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="40w" width="40" />
   </a>
 </div>
-<br />
+
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Real-Sello&theme=cobalt)](https://git.io/streak-stats)
   
