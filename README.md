@@ -46,7 +46,8 @@
 </div>
 
 ### 🔥 My Stats 🔥
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Real-Sello&theme=cobalt)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Real-Sello&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Real-Sello&theme=cobalt)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Real-Sello&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
 
   
