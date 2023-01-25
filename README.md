@@ -33,10 +33,10 @@
     <img align="center" src="assets/contact/stackoverflow.svg" alt="20726911" height="30" width="40" />
   </a>
   <a href="mailto:spmoneatse@gmail.com" target="blank">
-    <img align="center" src="assets/contact/gmail.svg" alt="gmail" height="30" width="40" />
+    <img align="center" src="" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://github.com/Real-Sello" target="blank">
-    <img align="center" src="assets/tools/github.svg" alt="github" height="40w" width="40" />
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="40w" width="40" />
   </a>
 </div>
 
