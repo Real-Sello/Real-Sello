@@ -34,7 +34,7 @@
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="20726911" height="30" width="40" />
   </a>
   <a href="mailto:spmoneatse@gmail.com" target="blank">
-    <img align="center" src="Gmail.svg" alt="gmail" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://github.com/Real-Sello" target="blank">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" height="40w" width="40" />
