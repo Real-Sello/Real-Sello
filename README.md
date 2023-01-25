@@ -50,7 +50,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Real-Sello&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api? theme=watermelon" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api? &theme=watermelon" alt="Jokes Card" />
   
 
   
