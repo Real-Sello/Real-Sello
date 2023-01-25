@@ -6,7 +6,9 @@
   
 - 🌱 I’m currently learning **C**,**Python** & **JavaScript**
   
-<img align="center" src="https://komarev.com/ghpvc/?username=Real-Sello&style=flat-square&color=blue" alt="Views"/>
+<div align="center" id="badges">
+<img src="https://komarev.com/ghpvc/?username=Real-Sello&style=flat-square&color=blue" alt="Views"/>
+</div>
   
 <h3 align="center"> :hammer_and_wrench: Languages and Tools I'm working with :</h3>
   
