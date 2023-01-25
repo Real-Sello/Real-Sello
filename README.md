@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <a<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Sello
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sello
   
 <h3 align="center">A passionate upcoming fullstack software engineer from South Africa</h3>
   
