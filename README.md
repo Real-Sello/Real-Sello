@@ -19,7 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" **alt="Vagrant" width="40" height="40"/>
 <a href="https://discord.com/" target="blank">
-    <img src="assets/tools/discord.svg" alt="Discord" height="40" width="40" />
+  <img src="assets/tools/discord.svg" alt="Discord" height="40" width="40" />
+  </a>
   
 <h3 align="center">Connect with me:</h3>
 <div align="center">
