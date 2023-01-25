@@ -4,7 +4,7 @@
   
 - 🔭 I’m currently a fullstack software engineering student at **ALX** with Back-End Specialization
   
-- 🌱 I’m currently learning `C`,`Python` & `JavaScript`
+- 🌱 I’m currently learning **C**,**Python** & **JavaScript**
   
 ### :hammer_and_wrench: Languages and Tools :
   
@@ -18,7 +18,27 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" **alt="Vagrant" width="40" height="40"/>
+  <img src="assets/tools/discord.svg" title="Discord" **alt="Discord" height="40" width="40" />
   </div>
+  
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+  <a href="https://twitter.com/__Sello" target="blank">
+    <img align="center" src="assets/contact/twitter.svg" alt="__Sello" height="30" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sello-moneatse-2bb4aa130" target="blank">
+    <img align="center" src="assets/contact/linkedin.svg" alt="sello-moneatse" height="30" width="40"/>
+  </a>
+  <a href="https://stackoverflow.com/users/20726911" target="blank">
+    <img align="center" src="assets/contact/stackoverflow.svg" alt="20726911" height="30" width="40" />
+  </a>
+  <a href="mailto:spmoneatse@gmail.com" target="blank">
+    <img align="center" src="assets/contact/gmail.svg" alt="gmail" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Real-Sello" target="blank">
+    <img align="center" src="assets/tools/github.svg" alt="github" height="40w" width="40" />
+  </a>
+</div>
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Real-Sello&theme=cobalt)](https://git.io/streak-stats)
