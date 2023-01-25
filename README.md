@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Sello
   
-<h3 align="center">A passionate fullstack software engineering student from South Africa</h3>
+<h3 align="center">A passionate upcoming fullstack software engineer from South Africa</h3>
   
-- 🔭 I’m currently a fullstack software engineering student at **ALX Africa**
+- 🔭 I’m currently a fullstack software engineering student at **ALX** with Back-End Specialization
   
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning `C`,`Python` & `JavaScript`
   
 ### :hammer_and_wrench: Languages and Tools :
   
