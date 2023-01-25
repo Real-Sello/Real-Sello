@@ -19,7 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" **alt="Vagrant" width="40" height="40"/>
   <a href="https://discord.com/" target="blank">
-    <img src="assets/tools/discord.svg" alt="Discord" height="40" width="40" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" height="40" width="40" />
   </a>
   
 <h3 align="center">Connect with me:</h3>
@@ -31,7 +31,7 @@
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="sello-moneatse" height="30" width="40"/>
   </a>
   <a href="https://stackoverflow.com/users/20726911" target="blank">
-    <img align="center" src="" alt="20726911" height="30" width="40" />
+    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="20726911" height="30" width="40" />
   </a>
   <a href="mailto:spmoneatse@gmail.com" target="blank">
     <img align="center" src="" alt="gmail" height="30" width="40" />
