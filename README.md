@@ -1,4 +1,5 @@
-[![HeaderImage](https://i.ibb.co/nswNMnc/githubheader.png)](https://github.com/SizoDevelops)
+[![HeaderImage]()](https://)
+![Header](./https://ibb.co/VvbL58R])
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sello
   
@@ -54,7 +55,7 @@
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?&theme=watermelon" alt="Jokes Card" />
   
-  ![Header](./https://ibb.co/VvbL58R])
+  
   
 
   
