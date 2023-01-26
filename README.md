@@ -1,3 +1,5 @@
+![Header](./https://github.com/Real-Sello/Real-Sello/blob/main/Yellow%20Grey%20Modern%20Minimalist%20Digital%20Business%20Consultant%20Linkedin%20Banner%20(2).png?raw=true)
+
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sello
   
 <h3 align="center">An asoiring fullstack software engineer from South Africa</h3>
