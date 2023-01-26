@@ -1,4 +1,4 @@
-[![HeaderImage](./https://ibb.co/VvbL58R])].()
+<a href="https://ibb.co/VvbL58R"><img src="https://i.ibb.co/VvbL58R/Blue-and-White-Modern-Tech-Web-Developer-Twitter-Header-1.png" alt="Blue-and-White-Modern-Tech-Web-Developer-Twitter-Header-1" border="0"></a>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sello
   
