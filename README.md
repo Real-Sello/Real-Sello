@@ -52,8 +52,9 @@
   
   [![Sello's GitHub stats](https://github-readme-stats-real-sello.vercel.app/api?username=Real-Sello)](https://github.com/Real-Sello/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats-real-sello.vercel.app/api/top-langs/?username=Real-Sello)](https://github.com/Real-Sello/github-readme-stats)
-  
+<a href="https://github.com/Real-Sello/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-real-sello.vercel.app/api/top-langs/?username=Real-Sello&repo=github-readme-stats" />
+   </a>
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?&theme=watermelon" alt="Jokes Card" />
   
