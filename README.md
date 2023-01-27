@@ -50,7 +50,7 @@
 ### 🔥 My Stats 🔥
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Real-Sello&theme=cobalt)](https://git.io/streak-stats)
   [![Sello's GitHub stats](https://github-readme-stats-real-sello.vercel.app/api?username=Real-Sello)](https://github.com/Real-Sello/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Real-Sello)](https://github.com/Real-Sello/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-real-sello.vercel.app/api/top-langs/?username=Real-Sello)](https://github.com/Real-Sello/github-readme-stats)
   
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api?&theme=watermelon" alt="Jokes Card" />
