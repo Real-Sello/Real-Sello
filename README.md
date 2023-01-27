@@ -51,7 +51,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Real-Sello&theme=cobalt)](https://git.io/streak-stats)
  
 <a href="https://github.com/Real-Sello/github-readme-stats">
-  <img align="center" src"https://github-readme-stats-real-sello.vercel.app/api?username=Real-Sello" />
+  <img align="center" src"https://github-readme-stats-real-sello.vercel.app/api?username=Real-Sello&repo=github-readme-stats" />
   </a>
   
 <a href="https://github.com/Real-Sello/github-readme-stats">
