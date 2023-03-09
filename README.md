@@ -11,6 +11,8 @@
   
 - 🌱 I’m currently learning **C**,**Python** & **JavaScript**
   
+- ⚡ Fun fact: I'm a Tech enthusiast
+  
 <div align="center" id="badges">
 <img src="https://komarev.com/ghpvc/?username=Real-Sello&style=flat-square&color=blue" alt="Views"/>
 </div>
