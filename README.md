@@ -6,8 +6,7 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sello
   
 <h3 align="center">An aspiring fullstack software engineer from South Africa</h3>
-  
-- 🔭 I’m currently a fullstack software engineering student with Back-End Specialization at **ALX**
+
   
 - 🌱 I’m currently learning **C**,**Python** & **JavaScript**
   
